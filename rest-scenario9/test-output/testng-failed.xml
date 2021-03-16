@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="restrunner9.testrunner9">
+        <methods>
+          <include name="validate_positive_response_code_received" invocation-numbers="0 1"/>
+          <include name="posted_with_future_date_information" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- restrunner9.testrunner9 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
