@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-11T14:37:00 IST" name="Default suite" finished-at="2021-03-11T14:37:06 IST" duration-ms="6698">
+    <groups>
+    </groups>
+    <test started-at="2021-03-11T14:37:00 IST" name="Default test" finished-at="2021-03-11T14:37:06 IST" duration-ms="6698">
+      <class name="testrunner.testrunner4">
+        <test-method signature="api_for_foreign_exchange()[pri:0, instance:testrunner.testrunner4@41c2284a]" started-at="2021-03-11T14:37:00 IST" name="api_for_foreign_exchange" finished-at="2021-03-11T14:37:01 IST" duration-ms="1233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api_for_foreign_exchange -->
+        <test-method signature="posted_with_correct_information()[pri:0, instance:testrunner.testrunner4@41c2284a]" started-at="2021-03-11T14:37:01 IST" name="posted_with_correct_information" finished-at="2021-03-11T14:37:05 IST" duration-ms="3966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posted_with_correct_information -->
+        <test-method signature="validate_positive_response_code_received()[pri:0, instance:testrunner.testrunner4@41c2284a]" started-at="2021-03-11T14:37:05 IST" name="validate_positive_response_code_received" finished-at="2021-03-11T14:37:06 IST" duration-ms="1425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_positive_response_code_received -->
+      </class> <!-- testrunner.testrunner4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
