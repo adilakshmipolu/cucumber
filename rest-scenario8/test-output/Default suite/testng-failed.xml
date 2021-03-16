@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="testrunner.testrunner8">
+        <methods>
+          <include name="opening_url"/>
+          <include name="sending_data_opening_the_url"/>
+          <include name="launching_browser"/>
+          <include name="teardown1"/>
+        </methods>
+      </class> <!-- testrunner.testrunner8 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-11T18:22:07 IST" name="Default suite" finished-at="2021-03-11T18:22:20 IST" duration-ms="12591">
+    <groups>
+    </groups>
+    <test started-at="2021-03-11T18:22:07 IST" name="Default test" finished-at="2021-03-11T18:22:20 IST" duration-ms="12591">
+      <class name="testrunner.testrunner8">
+        <test-method signature="api_for_foreign_exchange()[pri:0, instance:testrunner.testrunner8@41e1e210]" started-at="2021-03-11T18:22:07 IST" name="api_for_foreign_exchange" finished-at="2021-03-11T18:22:09 IST" duration-ms="1154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api_for_foreign_exchange -->
+        <test-method signature="posted_with_parameters(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testrunner.testrunner8@41e1e210]" started-at="2021-03-11T18:22:09 IST" name="posted_with_parameters" data-provider="date" finished-at="2021-03-11T18:22:12 IST" duration-ms="3787" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2012]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[05]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posted_with_parameters -->
+        <test-method signature="posted_with_parameters(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testrunner.testrunner8@41e1e210]" started-at="2021-03-11T18:22:12 IST" name="posted_with_parameters" data-provider="date" finished-at="2021-03-11T18:22:14 IST" duration-ms="1494" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2013]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posted_with_parameters -->
+        <test-method signature="posted_with_parameters(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testrunner.testrunner8@41e1e210]" started-at="2021-03-11T18:22:14 IST" name="posted_with_parameters" data-provider="date" finished-at="2021-03-11T18:22:16 IST" duration-ms="2038" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2015]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[01]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[07]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posted_with_parameters -->
+        <test-method signature="validate_positive_response_code_received(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testrunner.testrunner8@41e1e210]" started-at="2021-03-11T18:22:16 IST" name="validate_positive_response_code_received" data-provider="date" finished-at="2021-03-11T18:22:17 IST" duration-ms="1221" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2012]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[05]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_positive_response_code_received -->
+        <test-method signature="validate_positive_response_code_received(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testrunner.testrunner8@41e1e210]" started-at="2021-03-11T18:22:17 IST" name="validate_positive_response_code_received" data-provider="date" finished-at="2021-03-11T18:22:19 IST" duration-ms="1514" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2013]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_positive_response_code_received -->
+        <test-method signature="validate_positive_response_code_received(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testrunner.testrunner8@41e1e210]" started-at="2021-03-11T18:22:19 IST" name="validate_positive_response_code_received" data-provider="date" finished-at="2021-03-11T18:22:20 IST" duration-ms="1247" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2015]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[01]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[07]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_positive_response_code_received -->
+      </class> <!-- testrunner.testrunner8 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
